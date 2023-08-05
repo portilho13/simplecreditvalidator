@@ -1,18 +1,7 @@
-## Getting Started
+# Simple Credit Card Validator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+#### Hello world, this is a simple credit card validator written in C. This validator follows the rules of the credit card validation requirements by Paypal
 
-## Folder Structure
+## Space and time complexity:
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#### The space complexity of this script is O(1) and the time complexity is O(log(cardnumber)) where "cardnumber" where cardnumber represents the number of digits of the cardnumber.
