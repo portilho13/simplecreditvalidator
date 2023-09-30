@@ -1,6 +1,6 @@
 # Simple Credit Card Validator
 
-#### Hello world, this is a simple credit card validator written in C. This validator follows the rules of the credit card validation requirements by Paypal
+#### Hello world, this is a simple credit card validator written in C and Java. This validator follows the rules of the credit card validation requirements by Paypal
 
 ## Space and time complexity:
 
