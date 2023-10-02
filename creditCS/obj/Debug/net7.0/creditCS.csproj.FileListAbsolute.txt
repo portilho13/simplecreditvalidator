@@ -1,0 +1,14 @@
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/obj/Debug/net7.0/creditCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/obj/Debug/net7.0/creditCS.AssemblyInfoInputs.cache
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/obj/Debug/net7.0/creditCS.AssemblyInfo.cs
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/obj/Debug/net7.0/creditCS.csproj.CoreCompileInputs.cache
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/bin/Debug/net7.0/creditCS
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/bin/Debug/net7.0/creditCS.deps.json
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/bin/Debug/net7.0/creditCS.runtimeconfig.json
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/bin/Debug/net7.0/creditCS.dll
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/bin/Debug/net7.0/creditCS.pdb
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/obj/Debug/net7.0/creditCS.dll
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/obj/Debug/net7.0/refint/creditCS.dll
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/obj/Debug/net7.0/creditCS.pdb
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/obj/Debug/net7.0/creditCS.genruntimeconfig.cache
+/Users/marioportilho/Desktop/Coding/Learning/simplecreditvalidator/creditCS/obj/Debug/net7.0/ref/creditCS.dll
